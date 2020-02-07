@@ -11,5 +11,9 @@ body{
 }
 
 .btn{
-	margin-left:150%;
+	margin-left: 120%;
+}
+
+.btn-default{
+	margin-top: 20px;
 }
